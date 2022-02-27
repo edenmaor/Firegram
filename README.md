@@ -1,6 +1,6 @@
 
 
-## Available Scripts
+## Firegram photo album
 
 In the project directory, you can run:
 
