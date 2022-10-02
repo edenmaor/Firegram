@@ -3,17 +3,15 @@ import  firebase from 'firebase/compat/app';
 import 'firebase/compat/storage';
 import 'firebase/compat/firestore';
 
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBJGoD6nIyvFuuPMD3qo5K7TlvAObr8HEE",
-  authDomain: "firgram-photo-gallery.firebaseapp.com",
-  projectId: "firgram-photo-gallery",
-  storageBucket: "firgram-photo-gallery.appspot.com",
-  messagingSenderId: "1007798264167",
-  appId: "1:1007798264167:web:7c903cbd088a6f1ccc0fc2"
+  apiKey: "AIzaSyB5I9c462V7rUB13GvsHk3DTexQNhkRfAA",
+  authDomain: "fir-9391a.firebaseapp.com",
+  projectId: "fir-9391a",
+  storageBucket: "fir-9391a.appspot.com",
+  messagingSenderId: "417024666311",
+  appId: "1:417024666311:web:66773550824155e7b36ce2"
 };
 
 // Initialize Firebase
